@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jeanette-Salomon/static/css/main.605d1346.css",
+    "main.js": "/Jeanette-Salomon/static/js/main.18a6b5f7.js",
+    "index.html": "/Jeanette-Salomon/index.html",
+    "main.605d1346.css.map": "/Jeanette-Salomon/static/css/main.605d1346.css.map",
+    "main.18a6b5f7.js.map": "/Jeanette-Salomon/static/js/main.18a6b5f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605d1346.css",
+    "static/js/main.18a6b5f7.js"
+  ]
+}
