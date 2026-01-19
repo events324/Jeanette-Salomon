@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jeanette-Salomon/static/css/main.605d1346.css",
-    "main.js": "/Jeanette-Salomon/static/js/main.59f54c09.js",
+    "main.js": "/Jeanette-Salomon/static/js/main.d99b3989.js",
     "index.html": "/Jeanette-Salomon/index.html",
     "main.605d1346.css.map": "/Jeanette-Salomon/static/css/main.605d1346.css.map",
-    "main.59f54c09.js.map": "/Jeanette-Salomon/static/js/main.59f54c09.js.map"
+    "main.d99b3989.js.map": "/Jeanette-Salomon/static/js/main.d99b3989.js.map"
   },
   "entrypoints": [
     "static/css/main.605d1346.css",
-    "static/js/main.59f54c09.js"
+    "static/js/main.d99b3989.js"
   ]
 }
